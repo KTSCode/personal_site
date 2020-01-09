@@ -31,16 +31,16 @@ import Palette
 
 manifest : Manifest.Config Pages.PathKey
 manifest =
-    { backgroundColor = Just Color.white
+    { backgroundColor = Just Color.black
     , categories = [ Pages.Manifest.Category.education ]
     , displayMode = Manifest.Standalone
     , orientation = Manifest.Portrait
-    , description = "elm-pages-starter - A statically typed site generator."
+    , description = "Kyle San Clemente's Personal Site"
     , iarcRatingId = Nothing
-    , name = "elm-pages-starter"
-    , themeColor = Just Color.white
+    , name = "Kyle San Clemente"
+    , themeColor = Just Color.black
     , startUrl = pages.index
-    , shortName = Just "elm-pages-starter"
+    , shortName = Just "Kyle San Clemente"
     , sourceIcon = images.iconPng
     }
 
@@ -236,19 +236,20 @@ articleImageView articleImage =
 header : PagePath Pages.PathKey -> Element msg
 header currentPath =
     Element.column [ Element.width Element.fill ]
-        [ Element.el
-            [ Element.height (Element.px 4)
-            , Element.width Element.fill
-            , Element.Background.gradient
-                { angle = 0.2
-                , steps =
-                    [ Element.rgb255 0 242 96
-                    , Element.rgb255 5 117 230
-                    ]
-                }
-            ]
-            Element.none
-        , Element.row
+        [ --  Element.el
+          --    [ Element.height (Element.px 4)
+          --    , Element.width Element.fill
+          --    , Element.Background.gradient
+          --        { angle = 0.2
+          --        , steps =
+          --            [ Element.rgb255 0 242 96
+          --            , Element.rgb255 5 117 230
+          --            ]
+          --        }
+          --    ]
+          --    Element.none
+          --,
+          Element.row
             [ Element.paddingXY 25 4
             , Element.spaceEvenly
             , Element.width Element.fill
@@ -261,12 +262,11 @@ header currentPath =
                 , label =
                     Element.row [ Font.size 30, Element.spacing 16 ]
                         [ DocumentSvg.view
-                        , Element.text "elm-pages-starter"
+                        , Element.text "Kyle San Clemente - Software Engineer"
                         ]
                 }
             , Element.row [ Element.spacing 15 ]
-                [ elmDocsLink
-                , githubRepoLink
+                [ githubRepoLink
                 , highlightableLink currentPath pages.blog.directory "Blog"
                 ]
             ]
@@ -308,7 +308,7 @@ head metadata =
         Metadata.Page meta ->
             Seo.summaryLarge
                 { canonicalUrlOverride = Nothing
-                , siteName = "elm-pages-starter"
+                , siteName = "Kyle San Clemente"
                 , image =
                     { url = images.iconPng
                     , alt = "elm-pages logo"
@@ -324,7 +324,7 @@ head metadata =
         Metadata.Article meta ->
             Seo.summaryLarge
                 { canonicalUrlOverride = Nothing
-                , siteName = "elm-pages starter"
+                , siteName = "Kyle San Clemente"
                 , image =
                     { url = meta.image
                     , alt = meta.description
@@ -361,7 +361,7 @@ head metadata =
             in
             Seo.summary
                 { canonicalUrlOverride = Nothing
-                , siteName = "elm-pages-starter"
+                , siteName = "Kyle San Clemente"
                 , image =
                     { url = meta.avatar
                     , alt = meta.name ++ "'s elm-pages articles."
@@ -415,7 +415,7 @@ publishedDateView metadata =
 githubRepoLink : Element msg
 githubRepoLink =
     Element.newTabLink []
-        { url = "https://github.com/dillonkearns/elm-pages"
+        { url = "https://github.com/KTSCode"
         , label =
             Element.image
                 [ Element.width (Element.px 22)
@@ -425,14 +425,15 @@ githubRepoLink =
         }
 
 
-elmDocsLink : Element msg
-elmDocsLink =
-    Element.newTabLink []
-        { url = "https://package.elm-lang.org/packages/dillonkearns/elm-pages/latest/"
-        , label =
-            Element.image
-                [ Element.width (Element.px 22)
-                , Font.color Palette.color.primary
-                ]
-                { src = ImagePath.toString Pages.images.elmLogo, description = "Elm Package Docs" }
-        }
+
+--elmDocsLink : Element msg
+--elmDocsLink =
+--    Element.newTabLink []
+--        { url = "https://package.elm-lang.org/packages/dillonkearns/elm-pages/latest/"
+--        , label =
+--            Element.image
+--                [ Element.width (Element.px 22)
+--                , Font.color Palette.color.primary
+--                ]
+--                { src = ImagePath.toString Pages.images.elmLogo, description = "Elm Package Docs" }
+--        }

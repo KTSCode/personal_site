@@ -25,7 +25,7 @@ fillColor =
 
 fillGradient =
     gradient
-        (Color.rgb255 5 117 230)
+        (Color.rgb255 100 200 250)
         (Color.rgb255 0 242 96)
 
 
