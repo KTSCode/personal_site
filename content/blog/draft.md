@@ -1,7 +1,7 @@
 ---
 {
   "type": "blog",
-  "author": "Dillon Kearns",
+  "author": "Kyle San Clemente",
   "title": "A Draft Blog Post",
   "description": "I'm not quite ready to share this post with the world",
   "image": "/images/article-covers/mountains.jpg",

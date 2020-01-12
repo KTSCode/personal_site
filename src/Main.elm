@@ -134,8 +134,9 @@ view siteMetadata page =
                         |> Element.layout
                             [ Element.width Element.fill
                             , Font.size 20
-                            , Font.family [ Font.typeface "Roboto" ]
-                            , Font.color (Element.rgba255 0 0 0 0.8)
+                            , Font.family [ Font.typeface "Robotomono" ]
+                            , Font.color Palette.color.font
+                            , Element.Background.color Palette.color.background
                             ]
                 }
         , head = head page.frontmatter
@@ -220,7 +221,7 @@ pageView model siteMetadata page viewForPage =
             , body =
                 Element.column [ Element.width Element.fill ]
                     [ header page.path
-                    , Element.column [ Element.padding 20, Element.centerX ] [ Index.view siteMetadata ]
+                    , Element.column [ Element.padding 20, Element.centerX, Element.Background.color Palette.color.background] [ Index.view siteMetadata ]
                     ]
             }
 
@@ -256,6 +257,8 @@ header currentPath =
             , Element.Region.navigation
             , Element.Border.widthEach { bottom = 1, left = 0, right = 0, top = 0 }
             , Element.Border.color (Element.rgba255 40 80 40 0.4)
+            , Element.Background.color Palette.color.background
+            , Font.color Palette.color.font
             ]
             [ Element.link []
                 { url = "/"
@@ -402,7 +405,7 @@ canonicalSiteUrl =
 
 siteTagline : String
 siteTagline =
-    "Starter blog for elm-pages"
+    "My personal site and blog"
 
 
 publishedDateView metadata =
@@ -419,7 +422,7 @@ githubRepoLink =
         , label =
             Element.image
                 [ Element.width (Element.px 22)
-                , Font.color Palette.color.primary
+                , Element.Background.color Palette.color.font
                 ]
                 { src = ImagePath.toString Pages.images.github, description = "Github repo" }
         }

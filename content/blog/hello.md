@@ -1,7 +1,7 @@
 ---
 {
   "type": "blog",
-  "author": "Dillon Kearns",
+  "author": "Kyle San Clemente",
   "title": "Hello `elm-pages`! 🚀",
   "description": "Here's an intro for my blog post to get you interested in reading more...",
   "image": "/images/article-covers/hello.jpg",
