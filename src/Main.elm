@@ -134,7 +134,7 @@ view siteMetadata page =
                         |> Element.layout
                             [ Element.width Element.fill
                             , Font.size 20
-                            , Font.family [ Font.typeface "Robotomono" ]
+                            , Font.family [ Font.typeface "Roboto" ]
                             , Font.color Palette.color.font
                             , Element.Background.color Palette.color.background
                             ]
@@ -289,7 +289,7 @@ highlightableLink currentPath linkDirectory displayName =
     Element.link
         (if isHighlighted then
             [ Font.underline
-            , Font.color Palette.color.primary
+            , Font.color Palette.color.secondary
             ]
 
          else
@@ -422,7 +422,6 @@ githubRepoLink =
         , label =
             Element.image
                 [ Element.width (Element.px 22)
-                , Element.Background.color Palette.color.font
                 ]
                 { src = ImagePath.toString Pages.images.github, description = "Github repo" }
         }

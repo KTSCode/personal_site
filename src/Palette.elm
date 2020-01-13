@@ -8,7 +8,7 @@ import Element.Region
 color =
     { primary = Element.rgb255 5 117 230
     , secondary = Element.rgb255 0 242 96
-    , font = Element.rgb255 180 250 180
+    , font = Element.rgb255 100 200 110
     , background = Element.rgb255 0 12 16
     }
 
@@ -17,7 +17,7 @@ heading : Int -> List (Element msg) -> Element msg
 heading level content =
     Element.paragraph
         ([ Font.bold
-         , Font.family [ Font.typeface "Raleway" ]
+         , Font.family [ Font.typeface "Roboto" ]
          , Element.Region.heading level
          ]
             ++ (case level of
@@ -38,7 +38,7 @@ blogHeading : String -> Element msg
 blogHeading title =
     Element.paragraph
         [ Font.bold
-        , Font.family [ Font.typeface "Raleway" ]
+        , Font.family [ Font.typeface "Roboto" ]
         , Element.Region.heading 1
         , Font.size 36
         , Font.center
