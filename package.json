@@ -2,6 +2,7 @@
   "name": "personal_site",
   "version": "1.0.0",
   "description": "Personal Website",
+  "license": "MIT",
   "scripts": {
     "start": "elm-pages develop",
     "serve": "npm run build && http-server ./dist -a localhost -p 3000 -c-1",
@@ -9,6 +10,7 @@
   },
   "author": "Kyle San Clemente",
   "dependencies": {
+    "elm-oracle": "^1.1.1",
     "global": "^4.4.0",
     "highlight.js": "^9.15.10",
     "node-sass": "^4.12.0"

@@ -3039,6 +3039,11 @@ elm-hot@^1.1.4:
   resolved "https://registry.yarnpkg.com/elm-hot/-/elm-hot-1.1.4.tgz#4984592b3554670255ea4e08f4e98aa9103ab51f"
   integrity sha512-qPDP/o/Fkifriaxaf3E7hHFB5L6Ijihyg8is4A6xna6/h/zebUiNssbQrxywI2oxNUkr6W/leEu/WlIC1tmVnw==
 
+elm-oracle@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/elm-oracle/-/elm-oracle-1.1.1.tgz#61f6d783221b4ad08e7d101d678b9d5a67d3961c"
+  integrity sha1-YfbXgyIbStCOfRAdZ4udWmfTlhw=
+
 elm-pages@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/elm-pages/-/elm-pages-1.1.6.tgz#543124ab7cbe4a5e1b0f97b1f098d583bbca22db"

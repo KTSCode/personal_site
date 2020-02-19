@@ -49,11 +49,6 @@ type alias Rendered =
     Element Msg
 
 
-
--- the intellij-elm plugin doesn't support type aliases for Programs so we need to use this line
--- main : Platform.Program Pages.Platform.Flags (Pages.Platform.Model Model Msg Metadata Rendered) (Pages.Platform.Msg Msg Metadata Rendered)
-
-
 main : Pages.Platform.Program Model Msg Metadata Rendered
 main =
     Pages.Platform.application
