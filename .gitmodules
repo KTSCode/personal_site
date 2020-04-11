@@ -1,0 +1,3 @@
+[submodule "content/blog/welcome_to_the_thunder_gnome/OGL-SRD5"]
+	path = content/blog/welcome_to_the_thunder_gnome/OGL-SRD5
+	url = git@github.com:Umbyology/OGL-SRD5.git
