@@ -18,6 +18,7 @@ Welcome to the Thunder Gnome
   [Wiki](https://eberron-hok.obsidianportal.com/wikis/the-demon-wastes)
 
 # Thunderdome Fight 1
+  * Song: Thunderstruck - AC/DC
 
   1. Fighting a [Duergar](https://5thsrd.org/gamemaster_rules/monsters/duergar/) - [Image](https://printableheroes.com/Thumbnails?mini_id=157&quality=ORIGINAL_QUALITY&thumbnail_id=0)
       1. Name - Uigeadail Ardbeg
@@ -41,12 +42,41 @@ Welcome to the Thunder Gnome
           2. Rune at the top of each one
 * After the fight, you’re told you can find room and board at the next whiskey bar in town
 
-# The Next Whiskey Bar
+# The Next Whiskey Bar and Inn
+  * Song: Alabama Song by The Doors
+    * Vim command `:SpSearch Alabama Song`
+
+## Message Stones
+  * you each find among your things a magic looking stone
+    * shaped like a rhombus
+    * has a very faint glow coming from the cracks
+    * has a symbol in the center
+  * when you touch it an illusory image of Galactus' head appears above it and says
+
+         I greatly enjoyed watching you and your two companions fight my Chuul.
+         The three of you are welcome to come back to my thunderdome when when you need another Elder potion
+         or sooner if you want to make some gold entertaining me.
+         You individual fights were lackluster and did not much enjoy them *Personal message to each of them*
+         Be warned if you come alone or with only one other companion you will be facing the same challange
+         and will probably die.
+
+         This message stone will explode in 3...2...1........
+         `nothing happens`
+         HA! gotcha! bring this stone to the thunderdome next time you fight.
+         it will give you priority access to the preparation chamber
+         and be ready I won't be going so easy on you the next time
+
+         ...Galactus Out!
+
+  * When brought close together the three stones snap together like magnets forming a hexagon shape
+
+## Go downstairs
   * A Standard bar downstairs & 5 Rooms for rent upstairs
       * 1gp/day for room and food
   * Morrigan Jimson: Bar owner/tender
 
 ## Encounters:
+
 ### Talk to Morrigan:
   * Slight Irish/Scottish accent
 
@@ -58,11 +88,11 @@ Welcome to the Thunder Gnome
 
 ### Gang of Ruffians
   * They burst into the bar and start insulting people
-    * [Tiny: Berserker Male Goliath](~/personal_site/content/blog/welcome_to_the_thunder_gnome/tiny_npc.pdf)
+    * [Tiny: Berserker Male Goliath](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/tiny_npc.pdf)
       * `gp` will open pdf in pdf reader
-    * [Tony Calran: Pirate Male Pirate](~/personal_site/content/blog/welcome_to_the_thunder_gnome/tony_npc.pdf))
+    * [Tony Calran: Pirate Male Pirate](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/tony_npc.pdf))
       * `gp` will open pdf in pdf reader
-    * [Tommy Marone: Minstrel Male Human](~/personal_site/content/blog/welcome_to_the_thunder_gnome/tommy_npc.pdf)
+    * [Tommy Marone: Minstrel Male Human](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/tommy_npc.pdf)
       * `gp` will open pdf in pdf reader
       * will run after the rest of the team is taken out
   * Morgan's response
@@ -95,25 +125,24 @@ Welcome to the Thunder Gnome
         *explains who she is*
         I wish there was a way to get rid of her
 
-## Town
+# Town
   * The town of Maruk Dar is a pretty small town it consists of one main street Cragganmore Way where the majority of shops are and 5 or so side streets that lead to some house and seedier parts of the city.
   * Everything in the town is dwarfed by The Thunderdome
   * There is a 30ft wall surrounding the city, the only entrance and exit are through The Thunderdome
   * The one side of the city is up against a mountain, and the wall appears to touch the mountain as one point but you can't really see over the buildings
 
-### Shoppes at Cragganmore
+## Shoppes at Cragganmore
   * along Cragganmore way there are bunch of shops
-  *
 
-#### ApothiCarrie's
+### ApothiCarrie's
   * Apothecary
   * Owner: Carrie Hildigrim
   * The shopkeeper is a willowy female halfling named Carrie. She was once an adventurer, but was maimed by a dragon.
 
-##### Inventory
-  *
+#### Inventory
 
-#### Artificer Mhan's Wharf
+
+### Artificer Mhan's Wharf
   * Artificery
   * Owner: Mhan Cragganmore
     * Friendly older dwarf, with a knowing smiling and kind eye'
@@ -123,4 +152,7 @@ Welcome to the Thunder Gnome
 ##### Inventory
   *
 
-#### General Store and Trader
+### General Store and Trader
+
+##### Inventory
+  *
