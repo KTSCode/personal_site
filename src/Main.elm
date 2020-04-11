@@ -1,5 +1,8 @@
 module Main exposing (main)
 
+--import Html.Attributes as Attr
+--import Json.Decode
+
 import Color
 import Data.Author as Author
 import Date
@@ -12,9 +15,7 @@ import Element.Region
 import Head
 import Head.Seo as Seo
 import Html exposing (Html)
-import Html.Attributes as Attr
 import Index
-import Json.Decode
 import Markdown
 import Metadata exposing (Metadata)
 import Pages exposing (images, pages)
@@ -24,7 +25,7 @@ import Pages.ImagePath as ImagePath exposing (ImagePath)
 import Pages.Manifest as Manifest
 import Pages.Manifest.Category
 import Pages.PagePath as PagePath exposing (PagePath)
-import Pages.Platform exposing (Page)
+import Pages.Platform 
 import Pages.StaticHttp as StaticHttp
 import Palette
 
@@ -216,7 +217,7 @@ pageView model siteMetadata page viewForPage =
             , body =
                 Element.column [ Element.width Element.fill ]
                     [ header page.path
-                    , Element.column [ Element.padding 20, Element.centerX, Element.Background.color Palette.color.background] [ Index.view siteMetadata ]
+                    , Element.column [ Element.padding 20, Element.centerX, Element.Background.color Palette.color.background ] [ Index.view siteMetadata ]
                     ]
             }
 
