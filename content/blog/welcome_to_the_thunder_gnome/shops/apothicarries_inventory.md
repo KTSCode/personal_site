@@ -1,5 +1,33 @@
 # ApothiCarrie's Inventory
 
+## Basic Alchemist Supplies materials
+  * Price: 1gp
+  * Replenish materials for alchemists supplies
+
+## Basic Herbalism Kit materials
+  * Price: 1gp
+  * Replenish materials for an herbalism kit
+
+## Glass Vials
+  * Price: 2gp
+  * Stock: 100
+  * Weight: 10/1lbs
+
+## Magic Vials
+  * Price: 50gp
+  * Stock: 3
+  * A glass vial bound to an adjustable leather brown leather strap, there are arcane runes etched into the glass of the vial
+  * Each vial can be filled with a potion attached to a person and activated
+  * An activated vial can be "triggered" by either the wearer or the magic user that activated it using a command word(as a bonus action)
+    * the magic vial can be set to either drink or shatter mode
+      * **drink mode**: the contents of the vial are teleported into the wearers stomach
+      * **shatter mode**: the vial explodes, covering the wearer in it's contents
+  * The wearer can only have one magic vial equipped and active at a time
+  * Comment from Carrie
+
+        I can sell you any of my potion in one of these magic vials...
+        for an extra 50gp!
+
 ## Potion of Climbing (common, dmg 187)
   * Price: 180gp
   * Stock: 1
@@ -11,12 +39,12 @@
   * You regain 2d4 + 2 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
 ## Potion of Fire Breath (uncommon, dmg 187)
-  * Price:
+  * Price: 150gp
   * Stock: 1
   * After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.
 
 ## Potion of Greater Healing (uncommon, dmg 187)
-  * Price:
+  * Price: 150gp
   * Stock: 2
   * You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
@@ -32,18 +60,18 @@
   * You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 
 ## Potion of Superior Healing (rare, dmg 187)
-  * Price:
+  * Price: 450gp
   * Stock: 1
   * You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
 ## Potion of Heroism (rare, dmg 188)
-  * Price:
+  * Price: 180gp
   * Stock: 1
   * For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the *bless* spell (no concentration required). This blue potion bubbles and steams as if boiling.
       * **Bless:** Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
 
 ## Potion of Clairvoyance (rare, dmg 187)
-  * Price:
+  * Price: 960gp
   * Stock: 1
   * Gain the effect of the clairvoyance spell
     * **Range:** 1 mile
@@ -53,12 +81,12 @@
     * A creature that can see the sensor (such as a creature benefiting from *see invisibility* or truesight) sees a luminous, intangible orb about the size of your fist.
 
 ## Potion of Cloud Giant Strength (very rare, dmg 187)
-  * Price:
+  * Price: 1000gp
   * Stock: 1
   * When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score ( Cloud giant 27). The potion has no effect on you if your Strength is equal to or greater than that score.
   * This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type. The *potion of frost giant strength* and the *potion of stone giant strength* have the same effect.
 
 ## Potion of Supreme Healing (very rare, dmg 187)
-  * Price:
+  * Price: 1350gp
   * Stock: 1
   * You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated.

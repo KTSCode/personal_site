@@ -135,24 +135,61 @@ Welcome to the Thunder Gnome
   * along Cragganmore way there are bunch of shops
 
 ### ApothiCarrie's
-  * Apothecary
+  * Type: Apothecary
   * Owner: Carrie Hildigrim
+  * [Inventory](~/personal_site/content/blog/welcome_to_the_thunder_gnome/shops/apothicarries_inventory.md)
   * The shopkeeper is a willowy female halfling named Carrie. She was once an adventurer, but was maimed by a dragon.
-
-#### Inventory
 
 
 ### Artificer Mhan's Wharf
-  * Artificery
+  * Type: Artificery
   * Owner: Mhan Cragganmore
     * Friendly older dwarf, with a knowing smiling and kind eye'
     * Not the type of person you would expect in Maruk Dar
+  * [Inventory](~/personal_site/content/blog/welcome_to_the_thunder_gnome/shops/artificer_mhans_wharf.md)
   * Back of his shop is a Sky Wharf where all of the trade in and out of the city
+  * Want's some Sovreign Glue will trade for special Items
 
-##### Inventory
-  *
+#### Custom Item Tree
+  * **Wrist Wrocket**
+    * Lv. 1 Shoots an oil flask up to 15ft
+      * Bonus Action
+      * can be loaded with a max of 1 oil flasks per short rest
+    * Lv. 2 Ignites oil being shot or burns it creating a smoke bomb effect
+      * Bonus Action
+      * can be loaded with a max of 3 oil flasks per short rest
+    * Lv. 3 Wand of Grease and Fog Cloud
+      * Bonus Action
+      * Doesn't need to be loaded
+  * **Returning Star**
+    * Lv. 1 Returns to hand up to 60 ft if path is clear
+    * Lv. 2 Returns to hand up to 120 ft goes through 2" of wood ½ of stone
+      * Creatures in path make a DC 15 dex save or take 1d8 bludgeoning damage
+    * Lv. 3 Return is strong enough to pull you
+      * Can be thrown up to 40 ft in any direction(including up) and it takes you with it
+      * You must succeed a DC 12 str save to or it veers 10ft in a random direction
+      * Creatures in path make a DC 15 dex save or take 1d12 bludgeoning damage
+      * This counts as an action
+  * **Pojectile Launcher**
+    * Lv. 1 Shoots a potion up to 30ft
+      * Holds 3 potions
+      * Requires a ranged attack roll +5
+      * It takes an action to reload or change loaded potions
+      * Potions shatter on impact
+      * Firing it counts as an action
+    * Lv. 2 Shoots a potion up to 60 ft
+      * Holds 5 potions
+      * Requires a ranged attack roll +8
+      * "
+    * Lv. 3a Shoots a potion up to 120 ft
+      * Holds 8 potions
+      * Requires a ranged attack roll +12
+      * "
+    * Lv. 3b Shots a potion up to 60 ft
+      * Same as Lv. 2 except that firing is now a bonus action
 
 ### General Store and Trader
 
 ##### Inventory
   *
+  err
