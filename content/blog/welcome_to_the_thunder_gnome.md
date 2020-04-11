@@ -107,11 +107,20 @@ Welcome to the Thunder Gnome
 
 #### ApothiCarrie's
   * Apothecary
-  * Owner: Carrie
+  * Owner: Carrie Hildigrim
   * The shopkeeper is a willowy female halfling named Carrie. She was once an adventurer, but was maimed by a dragon.
 
 ##### Inventory
   *
+
 #### Artificer Mhan's Wharf
   * Artificery
-  * Owner: Mhan
+  * Owner: Mhan Cragganmore
+    * Friendly older dwarf, with a knowing smiling and kind eye'
+    * Not the type of person you would expect in Maruk Dar
+  * Back of his shop is a Sky Wharf where all of the trade in and out of the city
+
+##### Inventory
+  *
+
+#### General Store and Trader
