@@ -14,11 +14,14 @@ Welcome to the Thunder Gnome
   *A light mist fills the cell*
   An eerie voice plays in your head *"You have just been infected with Rhonan Virus if you do not win in the Thunderdome, you will die a slow painful death from in, inside the month. Give your best, your life depends on it."*
 
-#### The Demon Wastes
+# The Demon Wastes
   [Wiki](https://eberron-hok.obsidianportal.com/wikis/the-demon-wastes)
 
-# Thunderdome Fight 1
+# Thunderdome
+
+## Fight 1
   * Song: Thunderstruck - AC/DC
+    * Vim command `SpSearch Thunderstruck`
 
   1. Fighting a [Duergar](https://5thsrd.org/gamemaster_rules/monsters/duergar/) - [Image](https://printableheroes.com/Thumbnails?mini_id=157&quality=ORIGINAL_QUALITY&thumbnail_id=0)
       1. Name - Uigeadail Ardbeg
@@ -42,11 +45,20 @@ Welcome to the Thunder Gnome
           2. Rune at the top of each one
 * After the fight, you’re told you can find room and board at the next whiskey bar in town
 
-# The Next Whiskey Bar and Inn
-  * Song: Alabama Song by The Doors
-    * Vim command `:SpSearch Alabama Song`
+## Fight 2
+  * Song
 
-## Message Stones
+# Town
+  * The town of Maruk Dar is a pretty small town it consists of one main street Cragganmore Way where the majority of shops are and 5 or so side streets that lead to some house and seedier parts of the city.
+  * Everything in the town is dwarfed by The Thunderdome
+  * There is a 30ft wall surrounding the city, the only entrance and exit are through The Thunderdome
+  * The one side of the city is up against a mountain, and the wall appears to touch the mountain as one point but you can't really see over the buildings
+
+## The Next Whiskey Bar and Inn
+  * Song: Alabama Song by The Doors
+    * Vim command `SpSearch Alabama Song`
+
+### Message Stones
   * you each find among your things a magic looking stone
     * shaped like a rhombus
     * has a very faint glow coming from the cracks
@@ -70,12 +82,11 @@ Welcome to the Thunder Gnome
 
   * When brought close together the three stones snap together like magnets forming a hexagon shape
 
-## Go downstairs
+### Go downstairs
   * A Standard bar downstairs & 5 Rooms for rent upstairs
       * 1gp/day for room and food
   * Morrigan Jimson: Bar owner/tender
 
-## Encounters:
 
 ### Talk to Morrigan:
   * Slight Irish/Scottish accent
@@ -89,11 +100,11 @@ Welcome to the Thunder Gnome
 ### Gang of Ruffians
   * They burst into the bar and start insulting people
     * [Tiny: Berserker Male Goliath](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/tiny_npc.pdf)
-      * `gp` will open pdf in pdf reader
+      * `go` will open pdf in pdf reader
     * [Tony Calran: Pirate Male Pirate](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/tony_npc.pdf))
-      * `gp` will open pdf in pdf reader
+      * `go` will open pdf in pdf reader
     * [Tommy Marone: Minstrel Male Human](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/tommy_npc.pdf)
-      * `gp` will open pdf in pdf reader
+      * `go` will open pdf in pdf reader
       * will run after the rest of the team is taken out
   * Morgan's response
 
@@ -125,11 +136,28 @@ Welcome to the Thunder Gnome
         *explains who she is*
         I wish there was a way to get rid of her
 
-# Town
-  * The town of Maruk Dar is a pretty small town it consists of one main street Cragganmore Way where the majority of shops are and 5 or so side streets that lead to some house and seedier parts of the city.
-  * Everything in the town is dwarfed by The Thunderdome
-  * There is a 30ft wall surrounding the city, the only entrance and exit are through The Thunderdome
-  * The one side of the city is up against a mountain, and the wall appears to touch the mountain as one point but you can't really see over the buildings
+## Misc Encounters
+
+### Wyvern Attack
+  * A Wyvern attacks an airship heading to Artificer Mhan's Wharf
+    * *Large dragon, unaligned*
+    * **Armor Class** 13 (natural armor)
+    * **Hit Points** 110 (13d10 + 39)
+    * **Speed** 20 ft., fly 80 ft.
+      | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+      | ------- | ------- | ------- | ------- | ------- | ------- |
+      | 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3)  | 12 (+1) | 6 (-2)  |
+    * **Skills** Perception +4
+    * **Senses** darkvision 60 ft., passive Perception 14
+    * **Languages** -
+    * **Challenge** 6 (2,300 XP)
+
+##### Actions
+  * ***Multiattack***. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
+  * ***Bite***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
+  * ***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
+  * ***Stinger***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+
 
 ## Shoppes at Cragganmore
   * along Cragganmore way there are bunch of shops
@@ -189,7 +217,14 @@ Welcome to the Thunder Gnome
       * Same as Lv. 2 except that firing is now a bonus action
 
 ### General Store and Trader
+  * Jerry Smithson
+  * Least interesting person you've ever met
+  * [Inventory](~/personal_site/content/blog/welcome_to_the_thunder_gnome/shops/jerrys_store.md)
 
-##### Inventory
-  *
-  err
+## Warehouse District
+  - You see a lot of goods being moved from Mhans Wharf to a bunch of warehouse buy bugbears
+  - Succeed on a investigation DC 12 you realize that each of the bugbears is referring to itself as "Gorf"
+
+# Stormphrax Mine
+  * [Generated Dungeon](~/personal_site/content/blog/welcome_to_the_thunder_gnome/demon_wastes_stormphrax_mines.html)
+  * `go` while cursor is over the path will open the file in chrome

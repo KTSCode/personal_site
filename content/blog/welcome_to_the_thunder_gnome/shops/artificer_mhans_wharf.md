@@ -44,6 +44,7 @@
     * If you die while wearing the ring, your soul enters it, unless it already houses a soul.
     * You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication.
   * ![ring_of_mind_shielding](https://www.aidedd.org/dnd/images-om/ring-of-mind-shielding.jpg)
+  * Comment from Mhan
 
           If I die one of you can enter a blood pact with me
           you will be willed this ring containing my soul
