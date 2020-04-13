@@ -3,9 +3,6 @@
 ## Pole (10-foot)
   * Price: 0.05gp
 
-## Caltrops (bag of 20)
-  * Price: 1gp
-
 ## Hammer
   * Price: 1gp
 

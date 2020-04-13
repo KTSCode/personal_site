@@ -1,4 +1,6 @@
 Welcome to the Thunder Gnome
+# Resources
+  * [Base Grid](~/personal_site/content/blog/welcome_to_the_thunder_gnome/Maps/base_grid.jpg)
 # Intro
   You each wake up to find yourself in a magically warded cell with a view out into a massive rusted Colosseum-like building. You know this to be The Thunderdome a structure built for the sick entertainment of **Galactus Thunderfist** the Psychotic ruler of the small city of **Maruk Dar** what used to be an Orc encampment in the Demon Wastes. Before the outbreak of the Rhonan Virus, Galactus was just a small-time Gang Leader whose territory included the Stormphrax mines outside of Maruk Dar. Once it was found that Stormphrax was the main ingredient in Elder potion, a temporary antidote for Rhonan Virus, Galactus used his power over the now incredibly precious resource to gain incredible power and become the ruler of Maruk Dar. It is known across the land that one can get a vial of Elder Potion from Maruk Dar, but at a steep cost; 100,000 GP or by winning a battle in The Thunderdome! No one can access Maruk Dar without having fought at least once in the Thunderdome.
 
@@ -45,8 +47,68 @@ Welcome to the Thunder Gnome
           2. Rune at the top of each one
 * After the fight, you’re told you can find room and board at the next whiskey bar in town
 
-## Fight 2
-  * Song
+## Fight 2 - Sympathy for The Devil
+  * Song: Sympathy for The Devil - The Rolling Stones
+    * Vim command `SpSearch Sympathy for The Devil`
+
+### Chain Devil
+  * *Medium fiend (devil), lawful evil*
+  * **Armor Class** 16 (natural armor)
+  * **Hit Points** 85 (10d8 + 40)
+  * **Speed** 30 ft.
+  * Stats:
+    |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+    | ------- | ------- | ------- | ------- | ------- | ------- |
+    | 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
+  * **Saving Throws** Con +7, Wis +4, Cha +5
+  * **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  * **Damage Immunities** fire, poison
+  * **Condition Immunities** poisoned
+  * **Senses** darkvision 120 ft., passive Perception 11
+  * **Languages** Infernal, telepathy 120 ft.
+  * **Challenge** 8 (3,900 XP)
+  * ***Devil's Sight***. Magical darkness doesn't impede the devil's darkvision.
+  * ***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
+
+#### Actions
+  * ***Multiattack***. The devil makes two attacks with its chains.
+  * ***Chain***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
+  * ***Animate Chains (Recharges after a Short or Long Rest)***. Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
+    * Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+
+#### Reactions
+  * ***Unnerving Mask***. When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
+
+### Chain Prison
+  * Surrounding the devil are 4 30ft tall round Stone Spikes.
+    * At the base of each spike is a spool with a chain wrapped around it
+    * Above each of the spools is a lever
+    * 10ft above the lever is a stone circle made of a different material
+      * In the center of the circle is the arcane symbol(Arcana DC 12 to read) for four different types of damage
+        * choose 4 types of damage the party is able to do (Fire, Cold, Bludgeoning, Piecing)
+  * Each of the devil's limbs are shackled to a chain attached to one of the four pillars by two chains
+    * in a pile next to each pillar is a 15ft chain tail and a 10ft chain tail
+
+#### Each Turn
+##### The first turn
+  * The devil turns and looks at the party and telepathically says to them
+
+         Pleased to meet you, hope you guess my name... because I already know yours
+
+  * The devil then uses Unnerving Mask
+    * The party will most likely be out of range(30ft) so you could explain that the magic spikes increase the devils magic illusory abilities if any of your players rule shark you
+    * every member of the party must make a DC 14 wisdom save (can be lowered based on distance if you don't want half your party to spend the fight frightened)
+        * good opportunity for character back story teasers and flavor
+    * won't use the ability again unless they start to solve the puzzle too fast and you want to slow them down
+
+##### After 10 turns
+  * 
+
+
+##### After 15 turns
+
+
+#### If a chain is broken
 
 # Town
   * The town of Maruk Dar is a pretty small town it consists of one main street Cragganmore Way where the majority of shops are and 5 or so side streets that lead to some house and seedier parts of the city.
@@ -128,7 +190,7 @@ Welcome to the Thunder Gnome
   * Enforcer for Galactus
     * Picking up elder potion
     * Collecting payment from the town shops
-    * "keeping order"
+    * "keeping order
   * Morgan's response
 
         *Shudders* I dread the days she comes to collect.
@@ -142,9 +204,9 @@ Welcome to the Thunder Gnome
   * A Wyvern attacks an airship heading to Artificer Mhan's Wharf
     * *Large dragon, unaligned*
     * **Armor Class** 13 (natural armor)
-    * **Hit Points** 110 (13d10 + 39)
+    * **Hit Points** 130 (13d10 + 39)
     * **Speed** 20 ft., fly 80 ft.
-      | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+      |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
       | ------- | ------- | ------- | ------- | ------- | ------- |
       | 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3)  | 12 (+1) | 6 (-2)  |
     * **Skills** Perception +4
@@ -156,7 +218,7 @@ Welcome to the Thunder Gnome
   * ***Multiattack***. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
   * ***Bite***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
   * ***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
-  * ***Stinger***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+  * ***Stinger*** . *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
 
 ## Shoppes at Cragganmore
@@ -172,7 +234,7 @@ Welcome to the Thunder Gnome
 ### Artificer Mhan's Wharf
   * Type: Artificery
   * Owner: Mhan Cragganmore
-    * Friendly older dwarf, with a knowing smiling and kind eye'
+    * Friendly older dwarf, with a knowing smiling and kind eyes
     * Not the type of person you would expect in Maruk Dar
   * [Inventory](~/personal_site/content/blog/welcome_to_the_thunder_gnome/shops/artificer_mhans_wharf.md)
   * Back of his shop is a Sky Wharf where all of the trade in and out of the city
