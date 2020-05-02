@@ -49,13 +49,13 @@
   * You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
 ## Potion of Growth (uncommon, dmg 187)
-  * Price:
+  * Price: 300
   * Stock: 1
   *  When you drink this potion, you gain the "enlarge" effect of the *enlarge/reduce* spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
       * **Enlarge**. The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category- from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
 
 ## Potion of Water Breathing (uncommon, dmg 188)
-  * Price:
+  * Price: 400
   * Stock: 1
   * You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
 
