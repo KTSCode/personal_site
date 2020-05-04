@@ -12,9 +12,15 @@ Welcome to the Thunder Gnome
       * 3 battles = 1 large vial (one year of resistance)
       * 4+ battles = 2 large vials (two years of resistance)
   3. Each battle will be harder than the last
+  4. 
 
   *A light mist fills the cell*
   An eerie voice plays in your head *"You have just been infected with Rhonan Virus if you do not win in the Thunderdome, you will die a slow painful death from in, inside the month. Give your best, your life depends on it."*
+
+# Backstory
+  * Many decades ago a group of great adventurers found the layer of an ancient blue dragon
+    * The adventurers are the shop owners in the town
+  * The dragon
 
 # The Demon Wastes
   [Wiki](https://eberron-hok.obsidianportal.com/wikis/the-demon-wastes)
@@ -27,6 +33,7 @@ Welcome to the Thunder Gnome
     * Vim command `SpSearch Thunderstruck`
 
   1. Fighting a [Duergar](https://5thsrd.org/gamemaster_rules/monsters/duergar/) - [Image](https://printableheroes.com/Thumbnails?mini_id=157&quality=ORIGINAL_QUALITY&thumbnail_id=0)
+## Session 3
       1. Name - Uigeadail Ardbeg
 
               O’ll bash yer ed ya enbread meuuwtant bastarrd
@@ -91,7 +98,7 @@ Welcome to the Thunder Gnome
 #####
   * **hear:** I know who you really are *laughter
     * You think you saved all those children but their lives only got harder after you left
-    * The handful of them that are still alive 
+    * The handful of them that are still alive
 
 ### Chain Prison
   * Surrounding the devil are four 30ft tall round Stone Spikes 20 feet apart.
@@ -160,6 +167,33 @@ Welcome to the Thunder Gnome
   * Think about optional mechanics that:
     * protect the players if they do poorly
     * inhibit the players if it's too easy
+
+## Fight 3 Orchestra of Destruction
+  * Song: Symphony of Destruction - Megadeath
+    * Vim command `SpSearch Symphony of Destruction`
+
+### Six Orcs main Orcs
+  * Six Orcs charge into the fight
+
+#### Orc
+  * *Medium humanoid (orc), chaotic evil*
+  * **Armor Class** 13 (hide armor)
+  * **Hit Points** 15 (2d8 + 6)
+  * **Speed** 30 ft.
+
+        |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+        | ------- | ------- | ------- | ------- | ------- | ------- |
+        | 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2)  | 11 (+0) | 10 (+0) |
+
+  * **Skills** Intimidation +2
+  * **Senses** darkvision 60 ft., passive Perception 10
+  * **Languages** Common, Orc
+  * **Challenge** 1/2 (100 XP)
+
+###### Actions
+  * ***Aggressive***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+  * ***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
+  * ***Javelin***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
 
 # Town
   * The town of Maruk Dar is a pretty small town it consists of one main street Cragganmore Way where the majority of shops are and 5 or so side streets that lead to some house and seedier parts of the city.
@@ -235,7 +269,7 @@ Welcome to the Thunder Gnome
   * Power Word Stun
       * You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect.
       * **Stunned:** incapacitated, can't move or speak, fails str/dex saves, attack against have advantage
-  * [Character sheet](~/personal_site/content/blog/welcome_to_the_thunder_gnome/celeste_npc.pdf)
+  * [Character sheet](~/personal_site/content/blog/welcome_to_the_thunder_gnome/npcs/celeste_npc.pdf)
       * `gp` will open pdf in pdf reader
   * Ring of three wishes (as a bonus action)
   * Enforcer for Galactus
@@ -331,12 +365,139 @@ Welcome to the Thunder Gnome
 
 ### General Store and Trader
   * Jerry Smithson
-  * Least interesting person you've ever met
   * [Inventory](~/personal_site/content/blog/welcome_to_the_thunder_gnome/shops/jerrys_store.md)
+
+#### Jerry Smithson
+  * Least interesting person you've ever met
+  * Collector of boring things
+  * Had a lich statue that is the phylactery of a powerful lich that created The Ronan virus that steals time from anyone that talks to him
+  * Wants:
+    * An obsidian stallion - So he can brush it's hair
+    * A Spoon of Gody Cusine - So that everyone will like the food that he makes
+  * Class & Level: Monk 13 (Way of Shadow)
+  * Alignment: Neutral
+  * Experience: 124,800 xp
+
+##### ABILITY SCORES & ABILITIES
+  (* includes +5 proficiency bonus; ** includes expertise, if any)
+
+###### Strength 13
+  * +1 Strength Ability Checks
+  * +6 Strength Saving Throws
+  * +6 Athletics Skill
+
+###### Dexterity 20
+  * +5 Dexterity Ability Checks
+  * +10 Dexterity Saving Throws
+  * +5 Acrobatics Skill
+  * +5 Sleight of Hand Skill
+  * +5 Stealth Skill
+
+###### Constitution 14
+  * +2 Constitution Ability Checks
+  * +2 Constitution Saving Throws
+
+###### Intelligence 11
+  * +0 Intelligence Ability Checks
+  * +0 Intelligence Saving Throws
+  * +0 Arcana Skill
+  * +0 History Skill
+  * +0 Investigation Skill
+  * +0 Nature Skill
+  * +5 Religion Skill  *
+
+###### Wisdom 17
+  * +3 Wisdom Ability Checks
+  * +3 Wisdom Saving Throws
+  * +3 Animal Handling Skill
+  * +8 Insight Skill  *
+  * +3 Medicine Skill
+  * +3 Perception Skill
+  * +8 Survival Skill  *
+
+###### Charisma 5
+  * -2 Charisma Ability Checks
+  * -2 Charisma Saving Throws
+  * -2 Deception Skill
+  * -2 Intimidation Skill
+  * -2 Performance Skill
+  * -2 Persuasion Skill
+
+###### COMBAT
+  * 13 Passive Perception
+  * +5 Initiative Modifier
+  * Armor Class 18
+  * 50 ft. Speed
+  * 94 hit points
+  * Martial Arts. Melee Weapon Attack: +10 to hit, reach 5 ft. Hit: 1d8+5 bludgeoning damage.
+    * Strike counts as magical to overcome target's resistence to nonmagical attacks and damage.
+    * Make unarmed strike as bonus action.
+  * Dart. Ranged Weapon Attack: +10 to hit. Hit: 1d4+5 piercing damage. (Normal range to 20 ft.; disadvantage long range 21 to 60 ft.)
+  * Martial Arts During A Turn:
+    * Counting actions and bonus actions, make three unarmed attacks or one weapon attack plus two unarmed attack in turn.
+    * for 1 ki point, make four unarmed attacks in a turn. (Opportunity attack is a seperate reaction, do once per round.)
+
+###### FEATURES, TRAITS, SPECIAL ABILITIES
+  * Proficiencies & Languages
+    * Proficiency Bonus: +5
+    * Armor: none
+    * Weapons: simple weapons, shortsword
+    * Tools: one type of musical instrument, calligraphy supplies
+    * Saving Throws: Strength, Dexterity
+    * Skills: Athletics, Insight, Religion, Survival
+    * Languages: Common, Dwarvish, Orc
+  * Age: 47 years old
+  * Medium Size (5' 5", 128 lbs.)
+
+###### Ki Energy
+  * 13 ki points betw. short or long rests
+
+##### Class Features
+  * Unarmored Defense (AC)
+  * Flurry of Blows (1 ki for two unarmed attacks as bonus action)
+  * Patient Defense (1 ki for Dodge as bonus action)
+  * Step of the Wind (1 ki for Disengage or Dash as bonus action, jump distance doubled)
+  * Unarmored Movement (higher speed)
+  * Deflect Missiles (reduce by 1d10+18)
+  * Shadow Arts (2 ki for Darkness, Darkvision, Pass Without Trace, or Silence)
+  * Slow Fall (-65 damage)
+  * Extra Attack (2/attack)
+  * Stunning Strike (1 ki point, Constitution save of stunned)
+  * Shadow Step (bonus action to teleport 60 feet from dim light/darkness to same, adv. next attack)
+  * Wholeness of Body (regain 39 h.p. once betw. long rests)
+  * Evasion (area effect half or no damage)
+  * Stillness of Mind (end charmed or frightened)
+  * Purity of Body (immune disease, poison)
+  * Cloak of Shadows (invisible in dim light/darkness as action)
+  * Tongue of the Sun and Moon (all languages at touch)
 
 ## Warehouse District
   - You see a lot of goods being moved from Mhans Wharf to a bunch of warehouse buy bugbears
   - Succeed on a investigation DC 12 you realize that each of the bugbears is referring to itself as "Gorf"
+
+### Resources
+  * [Generated Dungeon](~/personal_site/content/blog/welcome_to_the_thunder_gnome/the_gorf_warehouse_district.html)
+
+### Encounters - Bugbears
+  * *Medium humanoid (goblinoid), chaotic evil*
+  * **Armor Class** 16 (hide armor, shield)
+  * **Hit Points** 27 (5d8 + 5)
+  * **Speed** 30 ft.
+
+        |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+        | ------- | ------- | ------- | ------- | ------- | ------- |
+        | 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1)  | 11 (+0) | 9 (-1)  |
+
+  * **Skills** Stealth +6, Survival +2
+  * **Senses** darkvision 60 ft., passive Perception 10
+  * **Languages** Common, Goblin
+  * **Challenge** 1 (200 XP)
+  * ***Brute***. A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
+  * ***Surprise Attack***. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+
+###### Actions
+***Morningstar***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) piercing damage.
+***Javelin***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
 
 ### Run the warehouse district is run by Luther Hardbringer
 

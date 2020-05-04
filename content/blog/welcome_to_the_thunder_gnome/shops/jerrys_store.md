@@ -1,5 +1,23 @@
 # Jerry's Store Inventory
 
+## Mithril Chain Shirt (Small) (13 + Dex max 2) 
+  * 850 gp
+
+## Oil of Slipperiness 
+  * 480 gp
+
+## Lock
+  * 10 gp 
+
+## Holy Water
+  * 50 gp 
+
+## 50ft of Silk Rope
+  * 10gp
+
+## Steel Mirror
+  * 5gp
+
 ## Pole (10-foot)
   * Price: 0.05gp
 
@@ -15,20 +33,11 @@
 ## Grappling hook
   * Price: 2gp
 
-## Scale merchant's
-  * Price: 5gp
-
 ## Amulet
-  * Price: 5gp
-
-## Herbalism kit
   * Price: 5gp
 
 ## Leather
   * Price: 10gp
-
-## Dungeoneer's Pack
-  * Price: 12gp
 
 ## Forgery kit
   * Price: 15gp
@@ -38,9 +47,6 @@
 
 ## Scimitar
   * Price: 25gp
-
-## Chain mail
-  * Price: 75gp
 
 ## Half plate
   * Price: 750gp
